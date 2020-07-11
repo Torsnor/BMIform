@@ -1,0 +1,10 @@
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\obj\Debug\BMIForm.csprojAssemblyReference.cache
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\obj\Debug\BMIForm.MainForm.resources
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\obj\Debug\BMIForm.Properties.Resources.resources
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\obj\Debug\BMIForm.csproj.GenerateResource.cache
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\obj\Debug\BMIForm.csproj.CoreCompileInputs.cache
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\bin\Debug\BMIForm.exe.config
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\bin\Debug\BMIForm.exe
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\bin\Debug\BMIForm.pdb
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\obj\Debug\BMIForm.exe
+C:\Users\aljel\Documents\C#\Assigment3A\BMIForm\obj\Debug\BMIForm.pdb
